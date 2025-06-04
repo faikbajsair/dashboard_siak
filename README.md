@@ -22,7 +22,7 @@ Halaman Upload Rapor (Rapor Akademik)
 3. Halaman Rapor lainnya belum sempat dikerjakan tunggu ada waktu luang
 
 file koneksi.php
-1. database diletakan di mysqli dengan nama latihan_db_login
+1. database diletakan di mysqli dengan nama latihan_db_login (file users.sql sudah ada di repo ini)
 2. tabel/entitas baru 1 yang dibuat yaitu users didalamnya sudah ada beberapa atribut yaitu :
 id
 username
