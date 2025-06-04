@@ -1,0 +1,21 @@
+Halaman Register :
+1. Admin yang dapat membuat akun baru masuk ke register.php
+2. permission admin adalah admin
+3. permission siswa adalah user
+4. sudah ada 3 akun admin (pass : admin), faik (pass : admin) dan salsabil (pass : salsabil)
+
+Halaman Login
+1. login sesuai username dan password
+2. password belum dikasih hash atau MD5 dan salt
+
+Halaman Dashboard 
+Sudah :
+1. selamat datang sesuai username
+2. Menu "Upload Rapor sudah berhasil dibuat"
+
+1. col masih belum full width
+2. 
+
+Halaman Upload Rapor (Rapor Akademik)
+1. Permission hanya untuk admin bukan untuk user
+2. cara penggunaannya, pilih dulu usernya, lalu pilih filenya dan klik tombol upload
